@@ -43,9 +43,9 @@ You can install the necessary libraries using pip:
 
 ```bash
 pip install pandas tabulate termcolor
-
-## How to Run
+How to Run
 bash
+Copy code
 1. Ensure that all dependencies are installed as described above.
 2. Download or clone the repository to your local machine.
 3. Navigate to the directory containing the script in your terminal.
